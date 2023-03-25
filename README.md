@@ -3,7 +3,7 @@
 In this work, an idea for an 'Emotional-Chat' project based on the field of NLP is included.
 <br><br>
 This repository contains the code for "Emotional-Chat" introduced in the following page:
-[Project Info.](https://www.notion.so/NLP-with-VISION-c1617cac8c4147908c8b12062e9c705f?pvs=4)
+[Project Info.](https://www.notion.so/Emotional-Chat-d18f12a74117414fb31a54079982c24e?pvs=4)
 <br><br>
 The code is built on Pytorch.
 <br>
