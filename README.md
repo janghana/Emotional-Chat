@@ -1,4 +1,4 @@
-# NLP-with-VISION
+# Emotional-Chat
 
 In this work, an idea for an 'Emotional-Chat' project based on the field of NLP is included.
 <br><br>
