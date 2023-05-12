@@ -1,7 +1,7 @@
 # Aihub Dataset
 
 
-본 데이터는 [Aihub](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=86)에서 제공하는 감성 대화를 위한 챗봇을 학습시키기 위한 튜토리얼 문서입니다.
+본 데이터는 [Aihub](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=86)에서 제공하는 감성 대화를 위한 챗봇을 학습시키기 위한 데이터셋입니다.
 
 ## 감성 대화 말뭉치 Dataset 정보
 
