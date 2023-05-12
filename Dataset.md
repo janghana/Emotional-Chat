@@ -39,19 +39,19 @@
 
 감정 상태는 총 6가지로 크게 분류되며 각 대분류 감정은 각각 10개씩 소분류 항목으로 나뉘어 총 60가지의 감정 체계로 이루어집니다.
 
-![emotion](./img/emotion.png)
+<img src="./img/emotion.png" alt="emotion" width="400" height="300" />
 
 각 감정별 데이터 분포 역시 균등한 수집을 고려하였습니다.
 
-![equal](./img/equal.png)
+<img src="./img/equal.png" alt="equal" width="400" height="300" />
 
 데이터는 JOSN 형식으로 정리가 되었고, 이에 대한 ID 규칙을 페르소나 및 감정 상태에 따라 분류되어 있습니다.
 
-![text1](./img/text1.png)
+<img src="./img/text1.png" alt="text1" width="400" height="300" />
 
 대화의 턴도 중요한 정보이므로 ID를 부여합니다.
 
-![text2](./img/text2.png)
+<img src="./img/text2.png" alt="text2" width="400" height="300" />
 
 <img src="./img/json.png" alt="json" width="400" height="300" />
 
