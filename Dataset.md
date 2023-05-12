@@ -39,7 +39,7 @@
 
 감정 상태는 총 6가지로 크게 분류되며 각 대분류 감정은 각각 10개씩 소분류 항목으로 나뉘어 총 60가지의 감정 체계로 이루어집니다.
 
-<img src="./img/emotion.png" alt="emotion" width="400" height="300" />
+<img src="./img/emotion.png" alt="emotion" width="600" height="300" />
 
 각 감정별 데이터 분포 역시 균등한 수집을 고려하였습니다.
 
