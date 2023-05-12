@@ -53,7 +53,7 @@
 
 ![text2](./img/text2.png)
 
-![json](./img/json.png)
+<img src="./img/json.png" alt="json" width="400" height="300" />
 
 챗봇 대화의 전략은 심리 상담에서 활용하는 적극적 경청의 방법을 활용하고 있습니다.
 
