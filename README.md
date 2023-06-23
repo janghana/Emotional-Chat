@@ -8,6 +8,7 @@ This repository contains the code for "Emotional-Chat" introduced in the followi
 The code is built on Pytorch.
 <br>
 # 
+
 ### ***Abstract***
 After COVID-19, modern people's psychological difficulties such as depression, anxiety, and loneliness are emerging as important social problems. This 'Emotional Chat' is designed to reduce the cost and time burden of users experiencing psychological difficulties through a counseling chat bot so that they can more easily access psychological counseling. 'Emotional Chat' is a conversation with users and Q&A. Through this, it extracts and analyzes texts that contain emotions and psychology, and derives users' psychological problems and emotions. Through this process, ‘Emotional Chat’ communicates with users, provides psychological comfort, and further suggests simple psychological prescriptions. ‘Emotional Chat’ is a natural language processing-based learning model and learns and processes through scripts for emotional AI corpus data.
 
